@@ -6,7 +6,7 @@
 | FlClash |✅|✅|✅|[前往](https://github.com/chen08209/FlClash/releases)|||
 | Clash Verge Rev| ✅|✅|❌|[前往](https://github.com/clash-verge-rev/clash-verge-rev/releases)||[前往](https://clash.download/clash-verge)|
 | Clash Meta for Android |❌|❌|✅|[前往](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)||[前往](https://clash.download/clash-meta-for-android)|
-| Clash for Windows |✅|✅|❌|已删库||[前往](https://clash.download/clash-for-windows)|
+| Clash for Windows |✅|✅|❌|已删库|[前往](https://github.com/clash-download/clash-for-windows)|[前往](https://clash.download/clash-for-windows)|
 | Clash Verge| ✅|✅|❌ |已删库||[前往](https://clash.download/clash-verge)|
 | ClashX |❌|✅|❌|已删库||[前往](https://clash.download/clashx)|
 | ClashX Pro |❌|✅|❌|已删库|||
