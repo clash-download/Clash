@@ -9,8 +9,8 @@
 | Clash for Windows |✅|✅|❌|~~已删库~~|[前往](https://github.com/clash-download/clash-for-windows)|[前往](https://clash.download/clash-for-windows)|
 | Clash for Android |❌|❌|✅|~~已删库~~||[前往](https://clash.download/clash-for-android)|
 | Clash Verge| ✅|✅|❌ |[已停更](https://github.com/zzzgydi/clash-verge/releases)|[前往](https://clash.download/clash-verge)|[前往](https://clash.download/clash-verge)|
-| ClashX |❌|✅|❌|[已停更](https://github.com/bannedbook/ClashX/releases)||[前往](https://clash.download/clashx)|
-| ClashX Pro |❌|✅|❌|[已停更](https://github.com/bannedbook/ClashX/release)|||
+| ClashX |❌|✅|❌|~~已删库~~||[前往](https://clash.download/clashx)|
+| ClashX Pro |❌|✅|❌|~~已删库~~|||
 
 
 ## 各客户端Clash官网导航
