@@ -17,6 +17,7 @@
 
 ### FlClash（推荐⭐）
 - FlClash下载地址：https://github.com/chen08209/FlClash/releases
+- FlClash使用教程：https://clash.download/flclash
 
 ### Clash Verge Rev（推荐⭐）
 - Clash Verge Rev下载地址：https://github.com/clash-verge-rev/clash-verge-rev/releases
