@@ -2,7 +2,7 @@
 
 ## Clash官网汇总
 |客户端|Windows|Mac|Android|Linux|官方仓库|备份仓库|教程与免费节点|
-|:--- |:---:|:---:|:---:|:---:|:---:|:---:| |:---:| 
+|:--- |:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
 | FlClash |✅|✅|✅|✅|[前往](https://github.com/chen08209/FlClash/releases)||[前往](https://clash.download/flclash)|
 | Clash Verge Rev| ✅|✅|❌|✅|[前往](https://github.com/clash-verge-rev/clash-verge-rev/releases)||[前往](https://clash.download/clash-verge)|
 | Clash Meta for Android |❌|❌|✅|❌|[前往](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)||[前往](https://clash.download/clash-meta-for-android)|
