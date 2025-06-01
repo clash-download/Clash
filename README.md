@@ -1,4 +1,4 @@
-# Clash官网导航(2025年5月最新)
+# Clash官网导航(2025年6月最新)
 
 ## Clash官网汇总
 |客户端|Windows|Mac|Android|Linux|官方仓库|备份仓库|教程与免费节点|
