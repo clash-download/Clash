@@ -1,7 +1,7 @@
 # Clash官网导航(2025年9月最新)
 
 ## Clash官网汇总
-|客户端|Windows|Mac|Android|Linux|官方仓库|备份仓库|下载、教程与免费节点|
+|客户端|Windows|Mac|Android|Linux|官方仓库|备份仓库|软件下载与免费节点|
 |:--- |:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
 | Clash Verge Rev| ✅|✅|❌|✅|[前往](https://github.com/clash-verge-rev/clash-verge-rev/releases)||[前往](https://clash.download/clash-verge)|
 | FlClash |✅|✅|✅|✅|[前往](https://github.com/chen08209/FlClash/releases)||[前往](https://clash.download/flclash)|
