@@ -1,10 +1,10 @@
-# Clash官网导航(2025年10月最新)
+# Clash官网导航(2025年11月最新)
 
 ## Clash官网汇总
-|客户端|Windows|Mac|Android|Linux|官方仓库|备份仓库|下载与免费节点|
+|客户端|Windows|Mac|Android|Linux|官方仓库|备份|下载与免费节点|
 |:--- |:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
-| Clash Verge Rev| ✅|✅|❌|✅|[前往](https://github.com/clash-verge-rev/clash-verge-rev/releases)||[前往](https://clash.download/clash-verge)|
 | FlClash |✅|✅|✅|✅|[前往](https://github.com/chen08209/FlClash/releases)||[前往](https://clash.download/flclash)|
+| Clash Verge Rev| ✅|✅|❌|✅|[前往](https://github.com/clash-verge-rev/clash-verge-rev/releases)||[前往](https://clash.download/clash-verge)|
 | Clash Meta for Android |❌|❌|✅|❌|[前往](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)||[前往](https://clash.download/clash-meta-for-android)|
 | Clash for Windows |✅|✅|❌|❌|~~已删库~~|[前往](https://github.com/clash-download/Clash-for-Windows)|[前往](https://github.com/clash-download/clash-for-windows)|[前往](https://clash.download/clash-for-windows)|
 | Clash for Android |❌|❌|✅|❌|~~已删库~~|[前往](https://github.com/clash-download/Clash-for-Android)|[前往](https://clash.download/clash-for-android)|
