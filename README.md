@@ -10,7 +10,7 @@
 | Clash for Android |❌|❌|✅|❌|~~已删库~~|[前往](https://github.com/clash-download/Clash-for-Android)|[下载](https://clash.download/clash-for-android)|
 | ClashX |❌|✅|❌|❌|~~已删库~~|[前往](https://github.com/clash-download/ClashX)|[下载](https://clash.download/clashx)|
 | ClashX Pro |❌|✅|❌|❌|~~已删库~~|[前往](https://github.com/clash-download/ClashX-Pro)|[下载](https://clash.download/clashx)|
-| Clash Verge| ✅|✅|❌|❌|[已停更](https://github.com/zzzgydi/clash-verge/releases)|[下载](https://github.com/clash-download/Clash-Verge)|[前往](https://clash.download/clash-verge)|
+| Clash Verge| ✅|✅|❌|❌|[已停更](https://github.com/zzzgydi/clash-verge/releases)|[前往](https://github.com/clash-download/Clash-Verge)|[下载](https://clash.download/clash-verge)|
 
 
 ## 各客户端Clash官网导航
