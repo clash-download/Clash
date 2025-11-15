@@ -8,7 +8,7 @@
 | Clash Meta for Android |❌|❌|✅|❌|[前往](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)||[下载](https://clash.download/clash-meta-for-android)|
 | Clash for Windows |✅|✅|❌|❌|~~已删库~~|[前往](https://github.com/clash-download/Clash-for-Windows)|[下载](https://github.com/clash-download/clash-for-windows)|[前往](https://clash.download/clash-for-windows)|
 | Clash for Android |❌|❌|✅|❌|~~已删库~~|[前往](https://github.com/clash-download/Clash-for-Android)|[下载](https://clash.download/clash-for-android)|
-| Clash Mi |✅|✅|✅|✅|[前往](https://github.com/clash-download/Clash-for-Android)||[下载](https://clashmi.com/download)|
+| Clash Mi |✅|✅|✅|✅|[前往](https://github.com/KaringX/clashmi)||[下载](https://clashmi.com/download)|
 | ClashX |❌|✅|❌|❌|~~已删库~~|[前往](https://github.com/clash-download/ClashX)|[下载](https://clash.download/clashx)|
 | ClashX Pro |❌|✅|❌|❌|~~已删库~~|[前往](https://github.com/clash-download/ClashX-Pro)|[下载](https://clash.download/clashx)|
 | Clash Verge| ✅|✅|❌|❌|[已停更](https://github.com/zzzgydi/clash-verge/releases)|[前往](https://github.com/clash-download/Clash-Verge)|[下载](https://clash.download/clash-verge)|
@@ -38,7 +38,7 @@
 - Clash for Android使用教程：https://clash.download/clash-for-android
 
 ### Clash Mi
-- Clash Mi 下载地址：https://clashmi.com
+- Clash Mi 下载地址：https://clashmi.com/download
 
 ### ClashX （已经停更）
 - ClashX下载地址：https://github.com/clash-download/ClashX
