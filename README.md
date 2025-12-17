@@ -4,7 +4,7 @@
 2. 由于不可抗力，本项目可能随时消失。建议 `Fork`本仓库以永久保存，建议 `Star` 以第一时间掌握更新动态。
 3. 获取高速下载链接、图文配置教程（含高速节点），请访问官网：👉 **[clash.download](https://clash.download)**
 
-| 客户端 | 最新版本 | 更新时间 | Win | Mac | 安卓/鸿蒙 | Linux | 仓库 | 图文教程 |
+| 客户端 | 最新版本 | 更新时间 | Win | Mac | Android | Linux | 仓库 | 图文教程 |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Clash Verge Rev** | ![Ver](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/clash-verge-rev/clash-verge-rev&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [下载&教程](https://clash.download/clash-verge) |
 | **FlClash** | ![Ver](https://img.shields.io/github/v/release/chen08209/FlClash?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/chen08209/FlClash&label=) | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/chen08209/FlClash/releases) | [下载&教程](https://clash.download/flclash) |
