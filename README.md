@@ -1,57 +1,22 @@
-# Clash官网导航（2025年12月最新）
-本项目汇总基于 `Clash`、`Mihomo` 内核的主流客户端，持续更新。
-## Clash官网汇总
-🟢为正在积极更新维护的客户端，推荐优先考虑  🟡为已停更或删库项目的备份
-|客户端|Windows|Mac|安卓/鸿蒙|Linux|仓库|教程|高速节点|
-|:--- |:---:|:---:|:---:|:---:|:---:|:---:|:---:| 
-|🟢FlClash |✅|✅|✅|✅|[官方](https://github.com/chen08209/FlClash/releases)|[查看](https://clash.download/flclash)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢Clash Verge Rev| ✅|✅|❌|✅|[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases)|[查看](https://clash.download/clash-verge)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢Clash Meta for Android |❌|❌|✅|❌|[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)|[查看](https://clash.download/clash-meta-for-android)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟡Clash for Windows |✅|✅|❌|❌|[备份](https://github.com/clash-download/Clash-for-Windows)|[查看](https://clash.download/clash-for-windows)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟡Clash for Android |❌|❌|✅|❌|[备份](https://github.com/clash-download/Clash-for-Android)|[查看](https://clash.download/clash-for-android)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢Clash Mi |✅|✅|✅|✅|[官方](https://github.com/KaringX/clashmi)|[查看](https://clashmi.com/download)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢GUI.for.Clash |✅|✅|❌|✅|[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)||[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢Clash Party |✅|✅|❌|✅|[官方](https://github.com/mihomo-party-org/clash-party/releases)||[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢v2rayN |✅|✅|❌|✅|[官方](https://github.com/2dust/v2rayN/releases)||[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟢Pandora-Box |✅|✅|❌|✅|[官方](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.19)||[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟡ClashX |❌|✅|❌|❌|[官方](https://github.com/clash-download/ClashX)|[查看](https://clash.download/clashx)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟡ClashX Pro |❌|✅|❌|❌|[官方](https://github.com/clash-download/ClashX-Pro)|[查看](https://clash.download/clashx)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟡Clash Verge| ✅|✅|❌|❌|[官方](https://github.com/zzzgydi/clash-verge/releases)|[查看](https://clash.download/clash-verge)|[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
-|🟡Nyanpasu |✅|✅|❌|✅|[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases)||[免费试用](https://qiaomimi.cloud/#/register?code=Github)|
+# Clash 官网导航 (2025年12月最新)
+⚠️ **防失联警告 / Anti-Lost Warning**
+1. 本项目收录 `Clash` 和 `Mihomo` 内核的主流客户端的实时更新情况。
+2. 由于不可抗力，本项目可能随时消失。建议 `Fork`本仓库以永久保存，建议 `Star` 以第一时间掌握更新动态。
+3. 获取 **高速下载链接**、**图文配置教程（含高速节点）**，请访问官网：👉 **[clash.download](https://clash.download)**
 
-## 各客户端Clash官网导航
-
-### FlClash（推荐⭐）
-- FlClash下载地址：https://github.com/chen08209/FlClash/releases
-- FlClash使用教程：https://clash.download/flclash
-
-### Clash Verge Rev（推荐⭐）
-- Clash Verge Rev下载地址：https://github.com/clash-verge-rev/clash-verge-rev/releases
-- Clash Verge Rev使用教程：https://clash.download/clash-verge
-
-### Clash Meta for Android（推荐⭐）
-- Clash Meta for Android 下载地址：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
-- Clash Meta for Android 使用教程：https://clash.download/clash-meta-for-android
-
-
-### Clash for Windows （已经停更）
-- Clash for Windows下载地址：https://github.com/clash-download/Clash-for-Windows
-- Clash for Windows使用教程：https://clash.download/clash-for-windows
-
-### Clash for Android （已经停更）
-- Clash for Android下载地址：https://github.com/clash-download/Clash-for-Android
-- Clash for Android使用教程：https://clash.download/clash-for-android
-
-### Clash Mi
-- Clash Mi 下载地址：https://clashmi.com/download
-
-### ClashX （已经停更）
-- ClashX下载地址：https://github.com/clash-download/ClashX
-- ClashX使用教程：https://clash.download/clashx
-
-### ClashX Pro （已经停更）
-- ClashX Pro下载地址：https://github.com/clashdownload/ClashX-Pro
-
-### Clash Verge （已经停更）
-- Clash Verge下载地址：https://github.com/clash-download/Clash-Verge
-- Clash Verge使用教程：https://clash.download/clash-verge
+| 客户端 | 最新版本 | 更新时间 | Windows | macOS | 安卓/鸿蒙 | Linux | 仓库 | 图文教程 |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Clash Verge Rev** | ![Ver](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/clash-verge-rev/clash-verge-rev&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [**进入官网**](https://clash.download/clash-verge) |
+| **FlClash** | ![Ver](https://img.shields.io/github/v/release/chen08209/FlClash?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/chen08209/FlClash&label=) | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/chen08209/FlClash/releases) | [**进入官网**](https://clash.download/flclash) |
+| **Clash Meta for Android** | ![Ver](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/MetaCubeX/ClashMetaForAndroid&label=) | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [**进入官网**](https://clash.download/clash-meta-for-android) |
+| **Clash for Windows** | ![Static](https://img.shields.io/badge/v0.20.39-gray) | ![Static](https://img.shields.io/badge/2023年-已停更-red) | ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-download/Clash-for-Windows) | [**进入官网**](https://clash.download/clash-for-windows) |
+| **Clash for Android** | ![Static](https://img.shields.io/badge/v2.5.12-gray) | ![Static](https://img.shields.io/badge/2023年-已停更-red) | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-download/Clash-for-Android) | [**进入官网**](https://clash.download/clash-for-android) |
+| **Clash Mi** | ![Ver](https://img.shields.io/github/v/release/KaringX/clashmi?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/KaringX/clashmi&label=) | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi) | [**进入官网**](https://clashmi.com/download) |
+| **v2rayN** | ![Ver](https://img.shields.io/github/v/release/2dust/v2rayN?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/2dust/v2rayN&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/2dust/v2rayN/releases) |  |
+| **GUI.for.Clash** | ![Ver](https://img.shields.io/github/v/release/GUI-for-Cores/GUI.for.Clash?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/GUI-for-Cores/GUI.for.Clash&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) |  |
+| **Clash Party** | ![Ver](https://img.shields.io/github/v/release/mihomo-party-org/clash-party?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/mihomo-party-org/clash-party&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/mihomo-party-org/clash-party/releases) |  |
+| **Pandora-Box** | ![Ver](https://img.shields.io/github/v/release/snakem982/Pandora-Box?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/snakem982/Pandora-Box&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.19) |  |
+| **ClashX** | ![Static](https://img.shields.io/badge/v1.118.0-gray) | ![Static](https://img.shields.io/badge/2023年-已停更-red) | ❌ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-download/ClashX) | [**进入官网**](https://clash.download/clashx) |
+| **ClashX Pro** | ![Static](https://img.shields.io/badge/v1.118.1-gray) | ![Static](https://img.shields.io/badge/2023年-已停更-red) | ❌ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-download/ClashX-Pro) | [**进入官网**](https://clash.download/clashx) |
+| **Clash Verge** (旧) | ![Static](https://img.shields.io/badge/v1.3.8-gray) | ![Static](https://img.shields.io/badge/2023年-已停更-red) | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/zzzgydi/clash-verge/releases) | [**进入官网**](https://clash.download/clash-verge) |
+| **Nyanpasu** | ![Ver](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?label=&color=blue) | ![Date](https://img.shields.io/endpoint?url=https://githubdate.bcdyf49t45.workers.dev/libnyanpasu/clash-nyanpasu&label=) | ✅ | ✅ | ❌ | ✅ | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) |  |
