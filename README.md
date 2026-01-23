@@ -2,7 +2,7 @@
 - 本项目收录 `Clash` 和 `Clash Meta(Mihomo）` 内核的主流客户端的实时更新情况。
 - 由于不可抗力，本项目可能随时消失。建议 `Fork`本仓库以永久保存，建议 `Star` 以掌握更新动态。
 - 如需获取高速下载链接、中文汉化版、详细图文配置教程），请访问官网：👉 **[clash.download](https://clash.download)**
-- [高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G](https://qiaomimi.de/#/register?code=Github)。
+- [高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G](https://qiaomimi.de/#/register?code=Github)
 
 | 客户端 | 最新版本 | 更新于 | Win | Mac | 安卓/鸿蒙 | Linux | 仓库 | 教程官网 |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
