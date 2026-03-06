@@ -1,4 +1,4 @@
-# Clash 官网导航 (2026年2月最新)
+# Clash 官网导航 (2026年3月最新)
 - 本项目收录 `Clash` 和 `Clash Meta(Mihomo）` 内核的主流客户端的实时更新情况。
 - 由于不可抗力，本项目可能随时消失。建议 `Fork`本仓库以永久保存，建议 `Star` 以掌握更新动态。
 - 高速下载地址，详细图文教程，可访问官网： **[clash.download](https://clash.download)**
