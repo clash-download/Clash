@@ -1,8 +1,8 @@
-# Clash 官网导航 (2026年4月最新)
+# Clash 官网导航 (2026年5月最新)
 - 本项目收录 `Clash` 和 `Clash Meta(Mihomo）` 内核的主流客户端的实时更新情况。
 - 由于不可抗力，本项目可能随时消失。建议 `Fork`本仓库以永久保存，建议 `Star` 以掌握更新动态。
 - 高速下载地址，详细图文教程，可访问官网： **[clash.download](https://clash.download)**
-- 👉[免费试用高速流量：全球100+节点，流媒体/AI解锁，抗通报高可用，最低￥0.19/G](https://qiaomimi.de/#/register?code=Github)
+- 👉[免费试用：80+高速节点，敏感时期高可用，流媒体/AI解锁，最低￥0.28/G](https://qiaomimi.de/#/register?code=Github)
 
 | 客户端 | 最新版本 | 更新于 | Win | Mac | 安卓/鸿蒙 | Linux | 仓库 | 教程官网 |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
